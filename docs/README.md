@@ -11,7 +11,7 @@ Installation
 
 Dependencies
 ------------
-This depends on a minimum of Sapphire 2.4.1.
+This depends on a minimum of Sapphire 2.4.1. (bare minimum sapphire rev 104847 from svn.silverstripe.org)
 
 Installation Instructions
 =========================
