@@ -1,0 +1,18 @@
+{
+	"name": "silverstripe-labs/customtranslations",
+	"description": "The customtranslations module lets you override the default
+		translations for strings provided by SilverStripe. It provides an admin interface
+		titled 'Translations', and lets you add and manage language overrides.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-labs", "customtranslations", "translation"],
+	"authors": [
+	{
+		"name": "Mark Stephens",
+		"email": "mark@silverstripe.com"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4.1"
+	}
+}
